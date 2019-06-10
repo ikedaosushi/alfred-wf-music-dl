@@ -14,7 +14,7 @@ This Workflow only helps to call below commands. You have to install each comman
 # Note
 Each commands.
 
-``sh
+```sh
 # SoundCloud
 soundscrape $URL
 # Bandcamp
