@@ -2,7 +2,7 @@
 A Alfred workflow that download Spotify, Youtube, SoundCloud, Bandcamp Musics
 
 # Install
-[music-dl.alfredworkflow](https://raw.githubusercontent.com/ikedaosushi/alfred-wf-music-dl/blob/master/music-dl.alfredworkflow)
+[music-dl.alfredworkflow](https://raw.githubusercontent.com/ikedaosushi/alfred-wf-music-dl/master/music-dl.alfredworkflow)
 
 # Required
 This Workflow only helps to call below commands. You have to install each commands by yourself.
